@@ -1,0 +1,13 @@
+{
+  "name": "jquery.tap",
+  "version": "1.0.0",
+  "description": "jQuery tap event",
+  "main": "jquery.tap.node.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrdziuban/jquery.tap.git"
+  },
+  "author": "Matt Dziuban",
+  "license": "UNLICENSED",
+  "private": true
+}
